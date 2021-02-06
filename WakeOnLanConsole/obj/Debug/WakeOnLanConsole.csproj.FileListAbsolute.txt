@@ -1,0 +1,7 @@
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\bin\Debug\WakeOnLanConsole.exe.config
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\bin\Debug\WakeOnLanConsole.exe
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\bin\Debug\WakeOnLanConsole.pdb
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\obj\Debug\WakeOnLanConsole.csprojAssemblyReference.cache
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\obj\Debug\WakeOnLanConsole.csproj.CoreCompileInputs.cache
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\obj\Debug\WakeOnLanConsole.exe
+C:\Users\TwilightNest\source\repos\WakeOnLanConsole\WakeOnLanConsole\obj\Debug\WakeOnLanConsole.pdb
